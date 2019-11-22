@@ -1,0 +1,11 @@
+C:\Users\simon.gergo\Desktop\hzgr\yeet\bin\Debug\yeet.exe.config
+C:\Users\simon.gergo\Desktop\hzgr\yeet\bin\Debug\yeet.exe
+C:\Users\simon.gergo\Desktop\hzgr\yeet\bin\Debug\yeet.pdb
+C:\Users\simon.gergo\Desktop\hzgr\yeet\obj\Debug\yeet.csprojAssemblyReference.cache
+C:\Users\simon.gergo\Desktop\hzgr\yeet\obj\Debug\yeet.FrmMasikAblak.resources
+C:\Users\simon.gergo\Desktop\hzgr\yeet\obj\Debug\yeet.Properties.Resources.resources
+C:\Users\simon.gergo\Desktop\hzgr\yeet\obj\Debug\yeet.csproj.GenerateResource.cache
+C:\Users\simon.gergo\Desktop\hzgr\yeet\obj\Debug\yeet.csproj.CoreCompileInputs.cache
+C:\Users\simon.gergo\Desktop\hzgr\yeet\obj\Debug\yeet.exe
+C:\Users\simon.gergo\Desktop\hzgr\yeet\obj\Debug\yeet.pdb
+C:\Users\simon.gergo\Desktop\hzgr\yeet\obj\Debug\yeet.FrmMain.resources
